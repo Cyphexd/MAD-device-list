@@ -83,6 +83,7 @@ Further information about ATVs and how to use them can be found on the [MAD-ATV 
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | N/A | easy | - |
 | Ulefone Power | Stock | v18 | N/A | N/A | mid | dodgy USB drivers for rooting |
 | Xiaomi Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | N/A | N/A | easy | - |
+| Samsung Galaxy Note 8 | [HadesRom v12](https://forum.xda-developers.com/galaxy-note-8/development/rom-hadesrom-pie-stock-v1-0-t3890210) | v20.4 | N/A | N/A | easy | - |
 
 Stock = Native default ROM
 
